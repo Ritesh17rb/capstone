@@ -7,11 +7,11 @@ const Policy = () => {
             <div className="policy-container">
                 <h2>Privacy Policy</h2>
                 <p>
-                    At Green Delight, we take your privacy seriously. This Privacy Policy outlines the types of personal information we collect and how we use it. By using our website, you consent to the collection and use of your information as described in this policy.
+                    At Grievance Management System, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you interact with our website and utilize our services.
                 </p>
                 <h3>Information We Collect</h3>
                 <p>
-                    We collect personal information such as your name, email address, shipping address, and payment details when you place an order on our website. We may also collect non-personal information such as your IP address and browser type for analytical purposes.
+                    We collect personal information such as your name,  for analytical purposes.
                 </p>
                 <h3>How We Use Your Information</h3>
                 <p>
@@ -26,7 +26,7 @@ const Policy = () => {
                     We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting on this page. We encourage you to review this policy periodically for any updates.
                 </p>
                 <p>
-                    If you have any questions or concerns about our Privacy Policy, please contact us at privacy@greendelight.com.
+                    If you have any questions or concerns about our Privacy Policy, please contact us at privacy@ritesh.com.
                 </p>
             </div>
         </Layout>

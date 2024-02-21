@@ -14,16 +14,15 @@ const About = () => {
                 </div>
                 <div className="col-md-4">
                     <p className="text-justify mt-2">
-                        <h2 >Welcome to Green Delight</h2>
+                        <h2 >Welcome to Grievance Mangement</h2>
                         <p >
-                            Green Delight is your ultimate destination for high-quality organic farm products. We are committed to providing you with the freshest and most nutritious produce directly from our partner farms.
+                            At Grievance Management System, we believe that every voice deserves to be heard and every concern deserves attention. Our platform is dedicated to providing a seamless and efficient mechanism for individuals and organizations to address grievances, resolve conflicts, and foster positive change.
                         </p>
                         <p >
-                            Our mission is to promote sustainable agriculture and support local farmers while offering you a convenient way to access healthy and environmentally friendly products.
+                            With the ever-increasing complexity of modern society, effective grievance management is paramount for maintaining harmony and promoting justice. Whether you're an employee seeking resolution in the workplace, a consumer with concerns about a product or service, or a citizen advocating for social change, our platform is designed to facilitate constructive dialogue and meaningful action.
                         </p>
                         <p>
-                            We are a team of passionate individuals who have come together with the vision of creating a green environment for Consumers and Farmers
-                            Whether you're passionate about organic food or looking to make healthier choices for yourself and your family, Green Delight is here to cater to all your needs. Join us in our journey towards a greener and healthier future!
+                            Join us in creating a world where grievances are met with empathy, understanding, and proactive solutions. Together, let's transform challenges into opportunities for growth and progress. Welcome to the Grievance Management System, where voices matter and resolutions happen.
                         </p>
                     </p>
                 </div>

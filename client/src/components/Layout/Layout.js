@@ -32,9 +32,9 @@ const Layout = ({ children, title, description, keywords, author }) => {
 };
 
 Layout.defaultProps = {
-    title: 'Green Delight-Shop Now',
-    description: 'A marketplace to Get fresh Organic Farm Products at very Reasonable Cost',
-    keywords: 'food,farmer',
+    title: 'Grievance Management',
+    description: 'A platform to manage your day to day problems and simplify the cumbersome process',
+    keywords: 'students,college',
     author: 'Ritesh Kumar'
 }
 
